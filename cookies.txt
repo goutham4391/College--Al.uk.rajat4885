@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+le.ac.uk	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	3qbupcqvqxpphx2vhmg3sugu
+le.ac.uk	TRUE	/	FALSE	1999999999	SC_ANALYTICS_GLOBAL_COOKIE	493e83a809a140dc8ce5fe4c73609cd4|False
+le.ac.uk	TRUE	/	FALSE	1999999999	SameSite	None
+
